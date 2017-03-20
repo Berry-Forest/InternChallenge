@@ -1,6 +1,6 @@
 # InternChallenge
 
-The purpose of this challenge is to assess:
+The purpose of this challenge is to assess the candidate in these areas:
 1. Problem solving skills
 2. Coding abilities
 3. Creativity
@@ -9,7 +9,7 @@ The purpose of this challenge is to assess:
 Have you seen bit.ly or goog.gl or tinyurl.com? These are URL shrinkers which provide a short alternate URL instead of a long one.
 **You challenge is to create a simple product like that.**
 
-### Usage Scenario:
+### Usage Scenario
 
 User X wants to share a "lite url" with User Y.
 
@@ -22,14 +22,14 @@ User X wants to share a "lite url" with User Y.
 * User Y clicks on the lite URL.
 * Your website redirects the browser to the original website with long url.
 
-### Technical Requirements:
+### Technical Requirements
 1. Design a SQL database to store URLs.
 2. Create an ASP.Net project (ASPX or MVC) with minimum two functions or pages:
 	* index page (this page is used to accept long URLs)
 	* redirect page (this page is used to accept short URLs and redirect to long URL)
 
 
-### How we judge your solution:
+### How we judge your solution
 1. Completeness of task
 2. Code Quality
 3. Code comments
