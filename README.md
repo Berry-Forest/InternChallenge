@@ -24,19 +24,19 @@ User X wants to share a "lite url" with User Y.
 
 ### Technical Requirements:
 1. Design a SQL database to store URLs.
-2. Create an ASP.Net project (ASPX or MVC) with two pages:
-	* index page   	(this page is used to accept long URLs)
-	* redirect page 	(this page is used to accept short URLs and redirect to long URL)
+2. Create an ASP.Net project (ASPX or MVC) with minimum two functions or pages:
+	* index page (this page is used to accept long URLs)
+	* redirect page (this page is used to accept short URLs and redirect to long URL)
 
 
 ### How we judge your solution:
 1. Completeness of task
 2. Code Quality
 3. Code comments
-4. Ability to explain the solution and answer any questions.
 
-
-
-
-
-
+### Important Reminders
+* You must be able to demonstrate the solution on yours or our laptop.
+* Any version of ASP.Net is fine, but an MVC solution gets one more point.
+* Any database is fine. Think simple! e.g. sqlite, MS Access. If using SQL Server or Oracle, prepare a DDL file. 
+* Use Internet as a reference only. 
+* We have sophisticated sensors deployed at our offices to identify candidates who copy-paste (:
