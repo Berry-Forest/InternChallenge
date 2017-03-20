@@ -27,7 +27,7 @@ User X wants to share a "lite url" with User Y.
 2. Create an ASP.Net project (ASPX or MVC) with minimum two functions or pages:
 	* index page (this page is used to accept long URLs)
 	* redirect page (this page is used to accept short URLs and redirect to long URL)
-
+3. Create a simple algorithm to ensure uniqueness of short URLs
 
 ### How we judge your solution
 1. Completeness of task
